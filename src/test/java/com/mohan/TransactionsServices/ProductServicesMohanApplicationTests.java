@@ -1,4 +1,4 @@
-package com.mohan.productservices_mohan;
+package com.mohan.TransactionsServices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
